@@ -1,1 +1,2 @@
-# Deep-Learning-Specialization Notes Credit [deeplearning.ai]
+# Deep-Learning-Specialization Notes 
+Source: [deeplearning.ai](deeplearning.ai)
